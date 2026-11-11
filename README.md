@@ -116,10 +116,9 @@ ANITS | 2021–2025 | GPA: 7.89/10
 
 🤝 Connect With Me
 
-""LinkedIn" (https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)" (https://www.linkedin.com/in/aakifah-556976320/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aakifah-556976320/)
 
-📧 "aakifah920@gmail.com" (mailto:aakifah920@gmail.com)
-
+📧 [aakifah920@gmail.com](mailto:aakifah920@gmail.com)
 ---
 
 Always learning. Always building. Always improving.
